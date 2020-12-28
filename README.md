@@ -1,1 +1,1 @@
-# 'tis creates a candle with a moving flame and shadow. plays sungha jung's spirited away guitar music. can change color of flame and size of candle through user inputs. overall just very basic javascript.
+#mini basic javascript projects
